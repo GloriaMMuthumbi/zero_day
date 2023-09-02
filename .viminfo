@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693664527,,"wq"
+|2,0,1693665398,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,44 @@
 # Registers:
 
 # File marks:
-'0  1  63  ~/README.md
-|4,48,1,63,1693664527,"~/README.md"
+'0  1  38  ~/zero_day/0x00-vagrant/0-hello_ubuntu
+|4,48,1,38,1693665398,"~/zero_day/0x00-vagrant/0-hello_ubuntu"
+'1  1  98  ~/zero_day/README.md
+|4,49,1,98,1693665284,"~/zero_day/README.md"
+'2  1  63  ~/README.md
+|4,50,1,63,1693664527,"~/README.md"
 
 # Jumplist (newest first):
+-'  1  38  ~/zero_day/0x00-vagrant/0-hello_ubuntu
+|4,39,1,38,1693665398,"~/zero_day/0x00-vagrant/0-hello_ubuntu"
+-'  1  98  ~/zero_day/README.md
+|4,39,1,98,1693665284,"~/zero_day/README.md"
+-'  1  98  ~/zero_day/README.md
+|4,39,1,98,1693665284,"~/zero_day/README.md"
+-'  1  63  ~/README.md
+|4,39,1,63,1693664527,"~/README.md"
+-'  1  63  ~/README.md
+|4,39,1,63,1693664527,"~/README.md"
+-'  1  63  ~/README.md
+|4,39,1,63,1693664527,"~/README.md"
 -'  1  63  ~/README.md
 |4,39,1,63,1693664527,"~/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/zero_day/0x00-vagrant/0-hello_ubuntu
+	*	1693665396	0
+	"	1	38
+	^	1	39
+	.	1	38
+	+	1	38
+
+> ~/zero_day/README.md
+	*	1693665282	0
+	"	1	98
+	^	1	99
+	.	1	98
+	+	1	98
 
 > ~/README.md
 	*	1693664525	0
